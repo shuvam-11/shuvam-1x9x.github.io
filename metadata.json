@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge",
+  "description": "Student Skill Development & Placement Portal featuring interactive learning, resume builder with AI review, job portal, quiz leaderboards, placement tracker, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
